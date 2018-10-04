@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Cucumber" systemlibrary="false">
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cobertura-2.1.1-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cobertura-2.1.1.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cobertura-2.1.1-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-core-1.2.5-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cucumber-core-1.2.5.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-core-1.2.5-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-java-1.2.5-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cucumber-java-1.2.5.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-java-1.2.5-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-junit-1.2.5-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cucumber-junit-1.2.5.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-junit-1.2.5-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-jvm-deps-1.0.5-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cucumber-jvm-deps-1.0.5.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-jvm-deps-1.0.5-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-reporting-3.19.0-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/cucumber-reporting-3.19.0.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/cucumber-reporting-3.19.0-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/gherkin-2.12.2-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/gherkin-2.12.2.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/gherkin-2.12.2-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/junit-4.12-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/junit-4.12.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/junit-4.12-sources.jar"/>
+        <archive javadoc="jar:file:/E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/gherkin-2.12.2-javadoc.jar!/" path="E:/Eclipse/Libraries/Cucumber/mockito-all-2.0.2-beta.jar" source="E:/Eclipse/Libraries/Cucumber/Source&amp;Javadoc/gherkin-2.12.2-sources.jar"/>
+    </library>
+</eclipse-userlibraries>
